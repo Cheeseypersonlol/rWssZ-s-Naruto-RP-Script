@@ -1,4 +1,4 @@
-﻿Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+wait(1)
 Window = Library.CreateLib("rWssZ Lesser GUI", "Serpent")
 --Client Script (Don't edit anything if you don't know what you're doing, if you do then go ahead brother :moai:)
 Credit = Window:NewTab("Welcome!")
